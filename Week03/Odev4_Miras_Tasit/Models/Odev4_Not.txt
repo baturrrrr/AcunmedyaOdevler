@@ -1,0 +1,3 @@
+Tır ekliyebilirim nedenleri:
+-Tır da bir taşıt türüdür
+-Id ve Brandi miras alıp kendi özelliklerini eklerim ve bu şekilde tır sınıfı oluştururum
